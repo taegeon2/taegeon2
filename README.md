@@ -21,8 +21,8 @@
 ---
 
 ## 💻 Tech Stack
-- **Languages**: C++, JavaScript, C#   
-- **Learning**: AI Agents, Machine Learning  
+- **Languages**: C++, JavaScript, TypeScript, C#   
+- **Learning**: AI Agents, Machine Learning, Web Programming  
 
 ---
 
