@@ -24,7 +24,7 @@
 ## 💻 Tech Stack
 - **Languages**: C++, JavaScript, TypeScript, C#   
 - **Learning**: AI Agents, Machine Learning, Web Programming  
-
+- **Tech**: React, Tailwind CSS,  TanStack Query, Zustand, Axios
 ---
 
 - 🌐 GitHub:  [taegeon2](https://github.com/taegeon2)
