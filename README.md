@@ -34,10 +34,5 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taegeon2&show_icons=true&hide_border=true)
-
----
 
 🌐 GitHub: [taegeon2](https://github.com/taegeon2)
